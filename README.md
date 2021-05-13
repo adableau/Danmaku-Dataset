@@ -10,7 +10,7 @@ We use three approaches to construct our dataset:
 1) We crawl both publicly available traditional video comments and time-sync danmaku comments. 
 2) We crawl users and video information for further analysis such as timestamps and video tags. 
 3) We further annotate the sentiment label of danmaku comments to better understand the emotion of the users.
-
+We extracted danmaku comments from October, 2017 to April, 2018 and contributed the final datasets.
 
 The files too large, so I upload them in BaiDuYun. You can download them from the link of
 
