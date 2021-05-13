@@ -11,6 +11,7 @@ We use three approaches to construct our dataset:
 2) We crawl users and video information for further analysis such as timestamps and video tags. 
 3) We further annotate the sentiment label of danmaku comments to better understand the emotion of the users.
 We extracted danmaku comments from October, 2017 to April, 2018 and contributed the final datasets.
+![image](https://user-images.githubusercontent.com/8870357/118126410-e3e51780-b42a-11eb-9227-ba05e6ff359b.png)
 
 The files too large, so I upload them in BaiDuYun. You can download them from the link of
 
